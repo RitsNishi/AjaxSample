@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.4" replicaid="4925805200028715" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="2e6" sequence="2" unid="8AAD0FFCB02666234925808100364146">
+<created><datetime>20161206T185236,54+09</datetime></created>
+<modified><datetime>20161206T185246,35+09</datetime></modified>
+<revised><datetime>20161206T185246,34+09</datetime></revised>
+<lastaccessed><datetime>20161206T185246,35+09</datetime></lastaccessed>
+<addedtofile><datetime>20161206T185236,55+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=neRson demo/O=Domino</name><name>CN=Admin Admin/O=Domino</name></updatedby>
+<item name="$MimeType"><text>text/css</text></item>
+<item name="$Flags"><text>34C=Q</text></item>
+<item name="$MimeCharSet"><text>UTF-8</text></item>
+
+
+<item name="$FileNames" sign="true"><text>Ajax_View_Sample_Style.css</text></item>
+<item name="$TITLE" sign="true"><textlist><text>Ph5_Ajax_View_TileSample_Style.css</text></textlist></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item></note>

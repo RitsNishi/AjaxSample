@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view xmlns:xp="http://www.ibm.com/xsp/core" xmlns:xc="http://www.ibm.com/xsp/custom">
+
+	<xp:this.resources>
+		<xp:script src="jQuery/jquery-2.1.3.min.js" clientSide="true" />
+		<xp:script src="Bootstrap/js/bootstrap.min.js" clientSide="true" />
+		<xp:styleSheet href="Bootstrap/css/bootstrap.css" />
+	</xp:this.resources>
+
+	<div class="panel panel-default" style="margin:10px">
+		<div class="panel-body">
+			<ul>
+				<li id="taro">太郎</li>
+				<li>次郎</li>
+				<li>花子</li>
+			</ul>
+
+		</div>
+		<div class="panel-footer">
+			<xp:button value="ID指定でスタイル切り替え" id="button1">
+				<xp:eventHandler event="onclick" submit="false">
+					<xp:this.script><![CDATA[$("#taro").css("color", "red");]]></xp:this.script>
+				</xp:eventHandler>
+			</xp:button>
+		</div>
+	</div>
+	
+
+	</xp:view>

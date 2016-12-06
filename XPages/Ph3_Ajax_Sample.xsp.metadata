@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.4" replicaid="4925805200028715" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="2a2" sequence="125" unid="F8AB98A0BF126A8149258059004A80D2">
+<created><datetime>20161027T223346,42+09</datetime></created>
+<modified><datetime>20161206T185401,34+09</datetime></modified>
+<revised><datetime>20161206T185401,33+09</datetime></revised>
+<lastaccessed><datetime>20161206T185401,34+09</datetime></lastaccessed>
+<addedtofile><datetime>20161027T223346,43+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin Admin/O=Domino</name></updatedby>
+<wassignedby><name>CN=Admin Admin/O=Domino</name></wassignedby>
+<item name="$Flags"><text>gC~4K</text></item>
+<item name="$Comment" sign="true"><text>Ajaxの基本の流れ</text></item>
+<item name="$TITLE" sign="true"><text>Ph3_Ajax_Sample.xsp</text></item>
+
+
+
+<item name="$DesignerVersion"><text>8.5</text></item>
+
+
+
+
+<item name="$FileNames" sign="true"><text>Ph3_Ajax_Sample.xsp</text></item></note>

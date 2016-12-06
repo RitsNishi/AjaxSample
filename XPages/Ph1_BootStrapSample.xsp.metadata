@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.4" replicaid="4925805200028715" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="29a" sequence="74" unid="9C9D4C864272DFEC4925805200146EEF">
+<created><datetime>20161020T124311,19+09</datetime></created>
+<modified><datetime>20161206T183353,58+09</datetime></modified>
+<revised><datetime>20161206T183353,57+09</datetime></revised>
+<lastaccessed><datetime>20161206T183353,58+09</datetime></lastaccessed>
+<addedtofile><datetime>20161020T124311,21+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin Admin/O=Domino</name></updatedby>
+<wassignedby><name>CN=Admin Admin/O=Domino</name></wassignedby>
+<item name="$Flags"><text>gC~4K</text></item>
+<item name="$Comment" sign="true"><text>BootStrapのテスト</text></item>
+
+
+<item name="$FileNames" sign="true"><text>BootStrapSample.xsp</text></item>
+<item name="$TITLE" sign="true"><text>Ph1_BootStrapSample.xsp</text></item>
+<item name="$DesignerVersion"><text>8.5</text></item>
+
+
+
+
+</note>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view xmlns:xp="http://www.ibm.com/xsp/core" xmlns:xc="http://www.ibm.com/xsp/custom">
+
+	<xp:this.resources>
+		<xp:script src="jQuery/jquery-2.1.3.min.js" clientSide="true" />
+		<xp:script src="Bootstrap/js/bootstrap.min.js" clientSide="true" />
+		<xp:styleSheet href="Bootstrap/css/bootstrap.css" />
+	</xp:this.resources>
+	
+	<!--ここにBootStrapのHTMLを貼りつけ（ 参考：http://bootstrap3.cyberlab.info/components/）/////////////////// -->
+<div class="dropdown">
+	<button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">
+		ドロップダウン
+		<span class="caret"></span>
+	</button>
+	<ul class="dropdown-menu" role="menu">
+		<li role="presentation"><a href="#">リンクのリスト１</a></li>
+		<li role="presentation"><a href="#">リンクのリスト２</a></li>
+		<li role="presentation"><a href="#">リンクのリスト３</a></li>
+	</ul>
+</div>
+
+
+
+	<!--　　///////////////////ここにBootStrapのHTMLを貼りつけ（ 参考：http://bootstrap3.cyberlab.info/components/） -->
+
+</xp:view>

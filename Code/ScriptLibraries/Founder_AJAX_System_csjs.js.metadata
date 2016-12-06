@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="filter" maintenanceversion="1.4" replicaid="4925805200028715" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="22a" sequence="554" unid="CFCEE9F19BB2876849257EF800158545">
+<created><datetime>20151109T125503,73+09</datetime></created>
+<modified><datetime>20161020T092743,91+09</datetime></modified>
+<revised><datetime>20160831T172317,49+09</datetime></revised>
+<lastaccessed><datetime>20161020T092743,91+09</datetime></lastaccessed>
+<addedtofile><datetime>20161020T092743,91+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin Admin/O=Domino</name><name>CN=neRson demo/O=Domino</name></updatedby>
+<wassignedby><name>CN=neRson demo/O=Domino</name></wassignedby>
+<item name="$TITLE" sign="true"><text>Founder_AJAX_System_csjs</text></item>
+<item name="$Flags"><text>h534Q</text></item>
+<item name="$PublicAccess" sign="true"><text>1</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+
+<item name="$Comment"><text>カスタムコントロール：Founder_List用</text></item></note>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view xmlns:xp="http://www.ibm.com/xsp/core" xmlns:xc="http://www.ibm.com/xsp/custom">
+
+	<xp:this.resources>
+		<xp:script src="jQuery/jquery-2.1.3.min.js" clientSide="true" />
+		<xp:script src="Bootstrap/js/bootstrap.min.js" clientSide="true" />
+		<xp:styleSheet href="Bootstrap/css/bootstrap.css" />
+		<xp:script src="/Founder_AJAX_System_csjs.js" clientSide="true" />
+		
+		<xp:script src="/lib_Ph4_Ajax_View_ListSample_csjs.js" clientSide="true" />
+		<xp:styleSheet href="Ph4_Ajax_View_ListSample_Style.css" />
+		
+	</xp:this.resources>
+	<xp:eventHandler event="onClientLoad" submit="false">
+		<xp:this.script><![CDATA[var actionkey = "Ajax_View_ListSample";
+//リクエスト処理
+var jsonObjs =[];
+var jsonObj1 = {URL:"./Founder_WebService.xsp",
+				ACTIONKEY:actionkey,
+				DATATYPE:"json",
+				ASYNC:true,
+				DATA:{
+					ActionKey:actionkey,
+					ServerName:"",
+					DbPath:"",
+					ViewName:"x_ByCategory"
+					}
+				};
+				jsonObjs.push(jsonObj1);
+				
+
+Founder_AJAX.Request(jsonObjs);
+
+]]></xp:this.script>
+	</xp:eventHandler>
+
+	<div id="Ajax_View_ListSample">
+		<div id="Founderlist">
+			<div id="ViewList">
+				<div class="template" style="display:none;">
+					<li class="list-group-item">
+						<div class="title"></div>
+					</li>
+				</div>
+			</div>
+
+			<div style="text-align: center;">
+				<li class="notFound list-group-item">
+					データが見つかりません
+						</li>
+				<li class="loading list-group-item">
+					LOADING…
+						</li>
+			</div>
+		</div>
+
+	</div>
+
+
+
+
+
+
+</xp:view>

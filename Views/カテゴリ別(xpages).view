@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note default='true' class='view' xmlns='http://www.lotus.com/dxl' version='9.0'
+ maintenanceversion='1.4' replicaid='4925805200028715'>
+<noteinfo noteid='2ea' unid='4A870EF499273F1E492580810037D83A' sequence='6'>
+<created><datetime>20161206T190958,34+09</datetime></created>
+<modified><datetime>20161206T191531,13+09</datetime></modified>
+<revised><datetime>20161206T191531,12+09</datetime></revised>
+<lastaccessed><datetime>20161206T191536,31+09</datetime></lastaccessed>
+<addedtofile><datetime>20161206T190958,49+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin Admin/O=Domino</name></updatedby>
+<wassignedby><name>CN=Admin Admin/O=Domino</name></wassignedby>
+<item name='$TYPE'><text>$SUBVIEW</text></item>
+<item name='$FormulaClass' sign='true'><text>1</text></item>
+<item name='$TITLE' sign='true'><text>カテゴリ別(xpages)|x_ByCategory</text></item>
+<item name='$Index' sign='true'><text/></item>
+<item name='$Formula' summary='true' sign='true'><formula compiled='true'>
+LAECAGwAAwAkMzgABQAFAFRpdGxlAAEAAAALAq8AMAAkAAEAAwAgICAABQAFAFRpdGxlACICAQAD
+ACAgIAAiAq4ADAABAAAArgAEALUDAQABACgAIgIFAAgARnJvbU5hbWUiAgEAAQApACICAwACABYA
+AwAkMzkABQAEAERhdGVLAQMAAgAaAAMAJDQwAAUACABMYXN0RWRpdEsBAwACAAwAAgAkM58AAwAF
+AFAASwAJAAoAAwAFAAMACAADAAoAAgAJAENhdGVnb3JpZXMkMzhUaXRsZSQzOUZyb21OYW1lJDQw
+TGFzdEVkaXRvciQzJENvbmZsaWN0AAQABAAAACIABQAEAEZvcm0BAA0AZm9ybV9kb2N1bWVudAAK
+AgMABwAMAAYACUwxUzJT
+</formula></item>
+<item name='$Collation' summary='true'>
+<rawitemdata type='2'>
+KwADAABEAGYHAAAKAABmAAoAAwABZgANAAMAQ2F0ZWdvcmllcyQzOSQ0MA==
+</rawitemdata></item>
+<item name='$Fonts' sign='true'><textlist><text>5</text><text>53</text><text
+>ＭＳ ゴシック</text><text>6</text><text>53</text><text>ＭＳ ゴシック</text><text>7</text><text
+>53</text><text>ＭＳ ゴシック</text><text>8</text><text>53</text><text>ＭＳ ゴシック</text><text
+>9</text><text>53</text><text>ＭＳ ゴシック</text><text>10</text><text>53</text><text
+>ＭＳ ゴシック</text><text>11</text><text>53</text><text>ＭＳ ゴシック</text><text>12</text><text
+>53</text><text>ＭＳ ゴシック</text><text>13</text><text>53</text><text>ＭＳ ゴシック</text><text
+>14</text><text>53</text><text>ＭＳ ゴシック</text><text>15</text><text>53</text><text
+>ＭＳ ゴシック</text><text>16</text><text>53</text><text>ＭＳ ゴシック</text><text>17</text><text
+>53</text><text>ＭＳ ゴシック</text><text>18</text><text>53</text><text>ＭＳ ゴシック</text><text
+>19</text><text>53</text><text>ＭＳ ゴシック</text><text>20</text><text>54</text><text
+>MS UI Gothic</text></textlist></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item>
+<item name='$ViewGlobalScript' summary='false' sign='true'><text>'++LotusScript Development Environment:2:5:(Options):0:74
+Option Public
+
+'++LotusScript Development Environment:2:5:(Forward):0:1
+
+'++LotusScript Development Environment:2:5:(Declarations):0:2
+
+<break/></text></item>
+<item name='$ViewFormat' sign='true'>
+<rawitemdata type='5'>
+AQAJACkAjgEAAFZDAwQKAAIAAAAAABgABQEECgAAAgAAAAAAAAACAAAgVkMAAAAAAAA0ACcACAAB
+AAAKAAAAAAAAAAAAAgIAAABWQxAAAwAAAJoAAAANAAYAAAoAIAAAAAAAAAAAAgAAIFZDAAQFAAwA
+AAAAAHABBwAACgAgAgAAAAAAAAACAAAgVkMBAAMACQAkAAAAYAAIAAAKACACAAAAAAEAAAEAACBW
+QwAACAAJAAAAAABQAAkAAAoAIAIAAAAAAAAAAgAAIFZDBQADAA8AKAAAAGAACgAACgAgAgAAAAAB
+AAABAAAgVkMAAAoADwAAAAAAYAALAAAKACACAAAAAAAAAAIAACBWQwAAAgAUAA4AAABgAAwAAAoB
+IAIAAAAAAAAAAAAAIENhdGVnb3JpZXMgIDQAAgAyAAMAJDE4AAEAIQBbPGRpdiBzdHlsZT0id2lk
+dGg6MjBweCI+PC9zcGFuPl0AAwABBQEAIQBbPGRpdiBzdHlsZT0id2lkdGg6MjBweCI+PC9zcGFu
+Pl0kMziaAAIAbAADACQzOAAFAAUAVGl0bGUAAQAAAAsCrwAwACQAAQADACAgIAAFAAUAVGl0bGUA
+IgIBAAMAICAgACICrgAMAAEAAACuAAQAtQMBAAEAKAAiAgUACABGcm9tTmFtZSICAQABACkAIgID
+AAcALAAlAAkzUzRTNlM3UzhTOVMxMFMxMlMxNFMxNVMxNlMxN1MxOFMxOVMAVGl0bGUQg14Qg0MQ
+g2cQg4skMzkQjewQkKwQk/okAAIAFgADACQzOQAFAAQARGF0ZUsBAwAHAAwABQAJMFMwRQBGcm9t
+TmFtZRCN7BCQrBCO0iQ0MBCNxRCPSRCNWBCQVhCT+igAAgAaAAMAJDQwAAUACABMYXN0RWRpdEsB
+AwAHAAwABQAJMFMwRQBMYXN0RWRpdG9yEI3FEI9JEI1YEJBWEI7SJDMQg1QQg0MQg1koEINvEIND
+EINnKQ4AAgAMAAIAJDOfAAMAJgAMAAAAAQEACQEAAgoBAQQKAAAeAK0rAQAeAAEBAAAAAAAAAABX
+Qw0BAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//wAAAAAAAAAAAAAAAAAAV0MBAQAJAAAAAAAA
+AAAAAAAAAAAAAAAABAAAAAAA//8AAAAAAAAAAAAAAAAAAFdDDgEACAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAP//AAAAAAAAAAAAAAAAAABXQw8BAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//wAA
+AAAAAAAAAAAAAAAAV0MQAQAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//8AAAAAAAAAAAAAAAAA
+AFdDEQEACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//AAAAAAAAAAAAAAAAAABXQxIBAAgAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAD//wAAAAAAAAAAAAAAAAAAV0MTAQAIAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAA//8AAAAAAAAAAAAAAAAAAFdDFAEACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//
+AAAAAAAAAAAAAAAAAABCABAAAAABAP/78QABAP/78QABAAAAAAAAAAAAAAAAAAEA/+DmAAEA/+Dm
+AAAAAQD/AAAAAQAAAP8AAQAAAAAAAAAIAAAAAAABAA==
+</rawitemdata></item>
+<item name='$V5ACTIONS' sign='true'>
+<rawitemdata type='1'>
+i/8oAAEABTUQgmwQgnIgEINTEINWEINiEINOAAAAAAAAAAAAAAAAAL0cdwCpAAEAAQAAAAEAAAAA
+AAAABQABCQgAAAB5/2wAAQBPj88AAQAPIK0AAQD///8AAQBPj88AAAAfAAAAAAAAAAAAAwAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAD8/zoAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA
+AAAAAAAAvv8kAAAABQAAAJ0BAAAKAAAAAAAAABCTXRCRlyhfRikBAAQKvv86AAAABQAAAJ0BAAAf
+AAAAAAAAABAQzBAQqxAQ2RAQwBAQ3hCC1hCI2hCTrihfTSkuLi4AAgA9fL7/OgAAAAUAAACdAQAA
+HwAAAAAAAAAQEMwQEKsQENkQEMAQEN4QgqkQgucQje0Qj5woX1IpAAMAPny+/y4AAAAFAAAAnAEA
+ABMAAAAAAAAAEJW2EI+REILMEJWqEJfeKF9aKSkEAE58vv8uAAAABQAAAJwBAAATAAAAAAAAABCV
+thCPkRCCzBCV0hCPVyhfRSkABQACCr7/LgAAAAUAAACcAQAAEwAAAAAAAAAQlbYQj5EQgswQkZcQ
+kE0oX1MpAAYAAwo=
+</rawitemdata></item>
+<item name='$ACTIONS' sign='true'>
+<rawitemdata type='1'>
+vRx3AKkAAQABAAAAAQAAAAAAAABNAAEJCAAAAL7/JAAAAAUAAACdAQAACgAAAAAAAAAQk10QkZco
+X0YpAQAECr7/OgAAAAUAAACdAQAAHwAAAAAAAAAQEMwQEKsQENkQEMAQEN4QgtYQiNoQk64oX00p
+Li4uYwIAPXy+/zoAAAAFAAAAnQEAAB8AAAAAAAAAEBDMEBCrEBDZEBDAEBDeEIKpEILnEI3tEI+c
+KF9SKQkDAD58vv8uAAAABQAAAJwBAAATAAAAAAAAABCVthCPkRCCzBCVqhCX3ihfWimDBABOfL7/
+LgAAAAUAAACcAQAAEwAAAAAAAAAQlbYQj5EQgswQldIQj1coX0UpAAUAAgq+/y4AAAAFAAAAnAEA
+ABMAAAAAAAAAEJW2EI+REILMEJGXEJBNKF9TKRAGAAMK
+</rawitemdata></item>
+<item name='$Flags'><text>T</text></item></note>
+

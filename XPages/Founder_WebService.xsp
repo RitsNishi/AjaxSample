@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view xmlns:xp="http://www.ibm.com/xsp/core" viewState="nostate"
+	rendered="false">
+
+	<xp:this.resources>
+
+		<xp:script src="/lib_Ph3_Ajax_Sample_ssjs.jss"
+			clientSide="false">
+		</xp:script>
+		
+		<xp:script src="/lib_Ph4_Ajax_View_ListSample_ssjs.jss"
+			clientSide="false">
+		</xp:script>
+		
+		<xp:script src="/lib_Ph5_Ajax_View_TileSample_ssjs.jss"
+			clientSide="false">
+		</xp:script>
+	</xp:this.resources>
+
+
+	<xp:this.beforeRenderResponse><![CDATA[#{javascript:
+WebService.Action();}]]></xp:this.beforeRenderResponse>
+	<xp:this.afterRenderResponse><![CDATA[#{javascript:WebService.Response();}]]></xp:this.afterRenderResponse>
+
+</xp:view>

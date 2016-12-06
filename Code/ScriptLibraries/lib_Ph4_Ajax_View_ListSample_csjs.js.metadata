@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="filter" maintenanceversion="1.4" replicaid="4925805200028715" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="2c6" sequence="21" unid="84BBD3D434FDE00F4925806C003FA0A3">
+<created><datetime>20161115T203458,91+09</datetime></created>
+<modified><datetime>20161206T190521,26+09</datetime></modified>
+<revised><datetime>20161206T190521,25+09</datetime></revised>
+<lastaccessed><datetime>20161206T190521,26+09</datetime></lastaccessed>
+<addedtofile><datetime>20161115T203458,95+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin Admin/O=Domino</name></updatedby>
+<wassignedby><name>CN=Admin Admin/O=Domino</name></wassignedby>
+<item name="$TITLE" sign="true"><text>lib_Ph4_Ajax_View_ListSample_csjs</text></item>
+<item name="$Flags"><text>h534Q</text></item>
+<item name="$PublicAccess" sign="true"><text>1</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+
+<item name="$Comment"><text>Ajaxの基本の流れ（View表示）　クライアントサイド</text></item></note>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view xmlns:xp="http://www.ibm.com/xsp/core" xmlns:xc="http://www.ibm.com/xsp/custom">
+
+	<xp:this.resources>
+		<xp:script src="jQuery/jquery-2.1.3.min.js" clientSide="true" />
+		<xp:script src="Bootstrap/js/bootstrap.min.js" clientSide="true" />
+		<xp:styleSheet href="Bootstrap/css/bootstrap.css" />
+		<xp:script src="/Founder_AJAX_System_csjs.js" clientSide="true" />
+
+		<xp:script src="/lib_Ph3_Ajax_Sample_csjs.js" clientSide="true" />
+		<xp:styleSheet href="Ph3_Ajax_Sample_Style.css" />
+	</xp:this.resources>
+
+	<div id="Ajax_Sample">
+
+
+		<div class="dropdown">
+			<button class="btn btn-default dropdown-toggle" type="button"
+				data-toggle="dropdown">
+				ドロップダウン
+				<span class="caret" />
+			</button>
+			<ul class="dropdown-menu" role="menu">
+				<li role="presentation">
+					<a href="#" id="Ajax_SampleBtn">サンプルボタン</a>
+				</li>
+				<li role="presentation">
+					<a href="#">リンクのリスト２</a>
+				</li>
+				<li role="presentation">
+					<a href="#">リンクのリスト３</a>
+				</li>
+			</ul>
+		</div>
+		<center id="Loading">読込中...</center>
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				結果
+	</div>
+			<div class="panel-body" id="result">
+				Hogehoge
+	</div>
+		</div>
+
+
+
+	</div>
+</xp:view>
